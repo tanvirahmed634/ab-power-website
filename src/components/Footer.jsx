@@ -1,7 +1,7 @@
 import { MapPin, Phone } from "lucide-react"
 import logoFooter from "../assets/logoFooter.PNG"
-import facebook from "../assets/facebook.PNG"
-import google from "../assets/google.PNG"
+import facebook from "../assets/facebook.png"
+import google from "../assets/google.png"
 
 export default function Footer() {
   return (
