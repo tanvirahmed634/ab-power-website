@@ -1,6 +1,6 @@
-import t1 from "../assets/transformer.png"
-import t2 from "../assets/switchgear.png"
-import t3 from "../assets/generator.png"
+import t1 from "../assets/transformer.PNG"
+import t2 from "../assets/switchgear.PNG"
+import t3 from "../assets/generator.PNG"
 
 export default function FeaturedProducts() {
 

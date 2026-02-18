@@ -1,4 +1,4 @@
-import aboutSection from "../assets/aboutSection.png"
+import aboutSection from "../assets/aboutSection.PNG"
 
 export default function AboutSection() {
   return (

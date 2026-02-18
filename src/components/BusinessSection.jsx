@@ -1,6 +1,6 @@
-import t1 from "../assets/abPower.png"
-import t2 from "../assets/abElectric.png"
-import t3 from "../assets/abGarments.png"
+import t1 from "../assets/abPower.PNG"
+import t2 from "../assets/abElectric.PNG"
+import t3 from "../assets/abGarments.PNG"
 
 export default function FeaturedProducts() {
 

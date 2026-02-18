@@ -1,5 +1,5 @@
-import img1 from "../assets/glance1.png"
-import img2 from "../assets/glance2.png"
+import img1 from "../assets/glance1.PNG"
+import img2 from "../assets/glance2.PNG"
 import { CheckCircle } from "lucide-react"
 
 export default function AtAGlance() {
